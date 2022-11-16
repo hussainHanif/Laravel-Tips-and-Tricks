@@ -1,0 +1,16 @@
+# Laravel Tips and Tricks
+## Table of contents
+- [Database Models and Eloquent](db-models-and-eloquent.md) (94 tips)
+- [Models Relationship](models-relations.md) (35 tips)
+- [Database Migrations](migrations.md) (15 tips)
+- [Views](views.md) (19 tips)
+- [Routing](routing.md) (33 tips)
+- [Validations](validation.md) (24 tips)
+- [Collections](collections.md) (9 tips)
+- [Authorization](auth.md) (5 tips)
+- [Mail](mail.md) (7 tips)
+- [Artisan](artisan.md) (7 tips)
+- [Factories](factories.md) (8 tips)
+- [Logs and Debug](log-and-debug.md) (7 tips)
+- [API](api.md) (7 tips)
+- [Other Tips](other.md) (71 tips)
